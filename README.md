@@ -9,7 +9,7 @@ I have two brothers who make cool stuff, [Mehdi](https://github.com/MehdiZouitin
 Quote:
 
 *As the moon rises and the stars shine bright,* <br />
-*I choose Python to code into the night.* <br />
+*I choose Python 🐍 to code into the night.* <br />
 *Its fluid grace and easy flow,* <br />
 *Are perfect for exploring where ideas go.* <br />
 
@@ -17,7 +17,7 @@ Quote:
 
 *But when the dawn breaks and the light reveals,* <br />
 *A software solution that truly seals,* <br />
-*I choose Rust, unwavering and true,* <br />
+*I choose Rust 	🦀, unwavering and true,* <br />
 *For a lifetime of reliability, unwavering and absolute.*
 
 Adil [de Montpassant](https://www.wikiwand.com/en/Guy%20de%20Maupassant)
