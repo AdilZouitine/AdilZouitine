@@ -20,4 +20,4 @@ Quote:
 *I choose Rust 	🦀, unwavering and true,* <br />
 *For a lifetime of reliability, unwavering and absolute.*
 
-Adil [de Montpassant](https://www.wikiwand.com/en/Guy%20de%20Maupassant)
+Adil [de Maupassant](https://www.wikiwand.com/en/Guy%20de%20Maupassant)
