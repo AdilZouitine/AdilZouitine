@@ -6,7 +6,7 @@ I love solving problems using code and data 🤓👨‍💻 .<br />
 
 I have two brothers who make cool stuff, [Mehdi](https://github.com/MehdiZouitine) & [Amine](https://github.com/AmineZouitine) 🤩.
 
-Quote:
+Poem:
 
 *As the moon rises and the stars shine bright,* <br />
 *I choose Python 🐍 to code into the night.* <br />
